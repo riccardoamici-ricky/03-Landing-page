@@ -1,0 +1,53 @@
+.make-an-impact{
+  background-image: linear-gradient(
+    rgba(0, 0, 0, 0.1),
+    rgba(0, 0, 0, 0.5)
+  ),
+  url('../../images/greta.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 150px 0;
+}
+.make-an-impact h1{
+  color: white;
+  text-shadow: 0px 0px 0px black
+  font-weight: bold;
+  font-size: 45px;
+  margin: 0;
+}
+.make-an-impact p{
+  color: white;
+  text-shadow: black;
+  font-size: 17px;
+}
+.headspace{
+  background-image: linear-gradient(
+    rgba(255, 254, 242, 0.1),
+    rgba(255, 254, 242, 0.1)
+  ),
+  url('../../images/banner_2.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 150px 0;
+}
+.headspace h1{
+  color: #333333;
+  text-shadow: 0px 0px 0px black
+  font-weight: bold;
+  font-size: 45px;
+  margin: 0;
+}
+.headspace p{
+  background-color: #F3BA46;
+  color: white;
+  text-shadow: black;
+  font-size: 17px;
+}
